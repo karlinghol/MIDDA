@@ -1,4 +1,4 @@
-# MIDDA
+# MIDDA - FIRST ITERATION
 
 Henter middagsretter fra TheMealDB, rydder opp i dataene, og oversetter
 dem til norsk med kontekstbevisst oversettelse (Gemini).
