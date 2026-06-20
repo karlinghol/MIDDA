@@ -2,6 +2,11 @@ from dotenv import load_dotenv
 import requests
 import os
 
+try:
+    from kassalapp.grocerie_item import GrocerieItem
+except ModuleNotFoundError:
+    from grocerie_item import GrocerieItem
+
 load_dotenv()  # Last inn miljøvariabler fra .env-filen
 
 API_TOKEN = os.getenv("KASSAL_API_TOKEN")  # Hent API-token fra miljøvariabler
@@ -24,3 +29,14 @@ def get_grocerie_item(search_term: str, sort: str = "price_desc") -> list[dict] 
         print(f"Feil: {response.status_code}")
         print(response.text)
         return None
+    
+
+def main():
+    search_term = "melk"
+    items = get_grocerie_item(search_term)
+    if items:
+        for g in GrocerieItem.parse_list(items):
+            print(g)
+
+if __name__ == "__main__":
+    main()
