@@ -1,0 +1,2289 @@
+{
+  "data": [
+    {
+      "id": 38302,
+      "name": "Kyllingfilet Strimlet Marinert 6x1,2kg",
+      "brand": "JÆDER",
+      "vendor": null,
+      "ean": "7020915215590",
+      "url": "https://engrosnett.no/kjottprodukter/fjorfe/kyllingfilet-strimlet-marinert-6x12kg",
+      "image": "https://engrosnett.no/image/kjott-produkter/kylling-og-fjorfe/1822980-1822980.jpg?lb=true&v=638180984760600000",
+      "category": null,
+      "description": null,
+      "ingredients": "86% norsk kyllingbrystfilet, vegetabilsk olje (raps), krydderblanding, salt, paprika, sukker, hvitl&#248;k, surhetsreg.middel (natriumsitrat).",
+      "current_price": 1566.82,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 1566.82,
+          "date": "2026-02-09T08:13:58.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-02-08T08:15:41.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-02-07T08:10:51.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-02-06T08:12:58.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-02-05T08:10:09.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-02-04T08:12:08.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-02-03T08:11:40.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-02-02T08:13:29.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-02-01T08:14:25.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-01-25T08:10:15.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-01-22T08:10:24.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-01-20T08:10:07.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-01-07T08:10:07.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-01-06T08:13:32.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-01-05T08:13:04.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-01-04T08:13:08.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-01-03T08:11:24.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2026-01-02T08:10:16.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2025-12-25T08:10:24.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2025-12-15T08:10:13.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2025-12-14T08:10:23.000000Z"
+        },
+        {
+          "price": 1566.82,
+          "date": "2025-12-13T08:10:17.000000Z"
+        },
+        {
+          "price": 1406,
+          "date": "2024-12-23T07:11:22.000000Z"
+        },
+        {
+          "price": 1406,
+          "date": "2024-12-22T07:14:26.000000Z"
+        },
+        {
+          "price": 1406,
+          "date": "2024-12-21T07:10:52.000000Z"
+        }
+      ],
+      "allergens": [],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-13T17:11:23.000000Z",
+      "updated_at": "2026-02-09T08:13:58.000000Z"
+    },
+    {
+      "id": 39571,
+      "name": "Kylling Hel Rå 1500G",
+      "brand": "TL MÅKESTAD",
+      "vendor": null,
+      "ean": null,
+      "url": "https://engrosnett.no/kjottprodukter/fjorfe/kylling-hel-raa-1500g",
+      "image": "https://engrosnett.no/image/kjott-/kylling-og-fjorfe/5622-5628.jpg?lb=true&v=638181107017130000",
+      "category": null,
+      "description": null,
+      "ingredients": null,
+      "current_price": 1383,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 1383,
+          "date": "2023-11-15T07:10:56.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-14T07:12:40.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-13T07:14:34.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-12T07:11:03.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-11T07:12:47.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-10T07:15:42.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-09T07:16:14.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-08T07:15:36.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-07T07:16:31.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-06T07:13:44.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-05T07:14:14.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-04T07:14:00.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-03T07:14:09.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-02T07:16:55.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-11-01T07:11:40.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-10-31T07:11:56.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-10-30T07:11:36.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-10-29T07:15:13.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-10-28T05:17:39.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-10-27T05:17:32.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-10-26T05:11:58.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-10-25T05:13:34.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-10-24T05:12:24.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-10-23T05:13:04.000000Z"
+        },
+        {
+          "price": 1383,
+          "date": "2023-10-22T05:15:22.000000Z"
+        }
+      ],
+      "allergens": [],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-13T17:13:16.000000Z",
+      "updated_at": "2024-05-05T21:50:23.000000Z"
+    },
+    {
+      "id": 109902,
+      "name": "Kyllingkrydder Åsgårdstrand 12kg Solina",
+      "brand": "Solina",
+      "vendor": "Solina norway as",
+      "ean": "7090049730924",
+      "url": "https://meny.no/Varer/middagstilbehor/krydder/kryddermix/kyllingkrydder-7090049730924",
+      "image": "https://bilder.ngdata.no/7090049730924/meny/large.jpg",
+      "category": [
+        {
+          "id": 4,
+          "depth": -2,
+          "name": "Middagstilbehør"
+        },
+        {
+          "id": 249,
+          "depth": -1,
+          "name": "Krydder"
+        },
+        {
+          "id": 504,
+          "depth": 0,
+          "name": "Kryddermix"
+        }
+      ],
+      "description": "Krydderblanding produsert til Meny Åsgårdstrand grill/kyllingprodukter. Doseres etter smak.",
+      "ingredients": "Salt, paprika, pepper (8%), dextrose, karry (coriander, gurkemeie, fennikkel, salt, chilli, cumin, bukkehornsfrø, karve), smaksforsterker e621 msg, chilli, surhetsregulerende middel e330 sitronsyre, sukker, hvitløk, løk, løpstikke, paprika oleoresin",
+      "current_price": 1310.8,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Meny",
+        "code": "MENY_NO",
+        "url": "https://meny.no/Varer",
+        "logo": "https://kassal.app/logos/Meny.svg"
+      },
+      "price_history": [
+        {
+          "price": 1310.8,
+          "date": "2023-08-03T05:01:10.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-08-02T05:01:29.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-08-01T05:01:47.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-31T05:03:22.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-31T05:02:01.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-30T05:03:24.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-30T05:01:36.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-29T05:03:24.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-29T05:01:52.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-28T05:01:47.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-27T05:03:25.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-27T05:01:43.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-26T05:01:37.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-25T05:03:38.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-25T05:01:36.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-24T05:03:55.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-24T05:02:05.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-23T05:01:20.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-22T05:00:55.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-21T05:01:15.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-20T05:01:10.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-19T05:00:44.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-18T05:01:08.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-17T05:00:58.000000Z"
+        },
+        {
+          "price": 1310.8,
+          "date": "2023-07-16T05:01:21.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 229,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 960,
+          "unit": "kj"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 4.6,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 32.9,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 14.4,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0.8,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 6.8,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 45.87,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 12.3,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2023-06-11T12:15:54.000000Z",
+      "updated_at": "2024-05-05T22:53:20.000000Z"
+    },
+    {
+      "id": 38705,
+      "name": "Kyllingkjøtt Strimlet Marinert 6x1,2kg",
+      "brand": "JÆDER",
+      "vendor": null,
+      "ean": "7020915215637",
+      "url": "https://engrosnett.no/kjottprodukter/fjorfe/kyllingkjott-strimlet-marinert-6x12kg",
+      "image": "https://engrosnett.no/image/kjott-produkter/kylling-og-fjorfe/1826924-1826924.jpg?lb=true&v=638180985355530000",
+      "category": null,
+      "description": null,
+      "ingredients": "86% norsk kyllingkj&#248;tt, vegetabilsk olje (raps), krydderblanding (hvitl&#248;k), salt, paprika, sukker, dekstrose, surhetsreg.middel (natriumsitrat)",
+      "current_price": 1302,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 1302,
+          "date": "2024-01-08T07:11:53.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2024-01-07T07:12:55.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2024-01-06T07:10:37.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2024-01-05T07:14:12.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2024-01-04T07:10:57.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2024-01-03T07:17:01.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2024-01-02T07:12:35.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2024-01-01T07:14:36.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-31T07:12:14.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-30T07:10:59.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-29T07:11:39.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-28T07:13:23.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-27T07:15:50.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-26T07:12:09.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-25T07:15:08.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-24T07:15:51.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-23T07:15:58.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-22T07:15:40.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-21T07:10:40.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-20T07:14:08.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-19T07:10:27.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-18T07:15:34.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-17T07:15:44.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-16T07:11:21.000000Z"
+        },
+        {
+          "price": 1302,
+          "date": "2023-12-15T07:16:24.000000Z"
+        }
+      ],
+      "allergens": [],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-13T17:11:57.000000Z",
+      "updated_at": "2024-05-05T21:49:01.000000Z"
+    },
+    {
+      "id": 40856,
+      "name": "Kylling- & Kalkunnuggets 5kg",
+      "brand": "STABBURET",
+      "vendor": null,
+      "ean": null,
+      "url": "https://engrosnett.no/kjottprodukter/bearbeidet-kjott/kylling-kalkunnuggets-5kg",
+      "image": "https://engrosnett.no/image/kjottprodukter/bearbeidet-kjott/1460294-1460294.jpg?lb=true&v=638180974503800000",
+      "category": null,
+      "description": null,
+      "ingredients": null,
+      "current_price": 1286,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 1286,
+          "date": "2024-01-08T07:13:10.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2024-01-07T07:13:11.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2024-01-06T07:11:53.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2024-01-05T07:10:58.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2024-01-04T07:11:42.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2024-01-03T07:15:28.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2024-01-02T07:16:05.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2024-01-01T07:15:50.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-31T07:10:57.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-30T07:10:38.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-29T07:14:22.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-28T07:10:35.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-27T07:10:29.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-26T07:14:01.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-25T07:14:55.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-24T07:15:30.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-23T07:14:58.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-22T07:14:06.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-21T07:15:29.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-20T07:10:42.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-19T07:12:15.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-18T07:10:31.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-17T07:13:17.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-16T07:11:14.000000Z"
+        },
+        {
+          "price": 1286,
+          "date": "2023-12-15T07:13:50.000000Z"
+        }
+      ],
+      "allergens": [],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-13T17:22:25.000000Z",
+      "updated_at": "2024-05-05T21:52:26.000000Z"
+    },
+    {
+      "id": 41174,
+      "name": "Kylling Salatkjøtt Krydret Grillet Strimlet 4*1,5kg",
+      "brand": "VESTFOLD FUGL",
+      "vendor": null,
+      "ean": null,
+      "url": "https://engrosnett.no/kjottprodukter/fjorfe/kylling-salatkjott-krydret-grillet-strimlet-415kg",
+      "image": "https://engrosnett.no/image/kjottprodukter/fjorfe/1376037-1376037.jpg?lb=true&v=638194780999200000",
+      "category": null,
+      "description": null,
+      "ingredients": "Kylling,  vann, salt, krydder (med bl.a paprika), sukker, hvitl&#248;k, konserveringsmiddel ( E261, E326), stabilisator E451, antioksidant E316.",
+      "current_price": 1092,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 1092,
+          "date": "2023-12-20T07:11:20.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-19T07:12:47.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-18T07:11:27.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-17T07:15:17.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-16T07:15:37.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-15T07:11:12.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-14T07:14:38.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-13T07:11:38.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-12T07:15:57.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-11T07:11:41.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-10T07:14:02.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-09T07:10:58.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-08T07:16:01.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-07T07:10:50.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-06T07:15:54.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-05T07:10:36.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-04T07:13:49.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-03T07:15:12.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-02T07:10:42.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-12-01T07:16:32.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-11-30T07:10:29.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-11-29T07:15:08.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-11-28T07:12:15.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-11-27T07:10:55.000000Z"
+        },
+        {
+          "price": 1092,
+          "date": "2023-11-26T07:15:10.000000Z"
+        }
+      ],
+      "allergens": [],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-13T17:23:45.000000Z",
+      "updated_at": "2024-05-05T21:52:56.000000Z"
+    },
+    {
+      "id": 39724,
+      "name": "Kylling Kjøttboller Små 4x1,5kg",
+      "brand": "VESTFOLD FUGL",
+      "vendor": null,
+      "ean": "7070471203616",
+      "url": "https://engrosnett.no/kjottprodukter/bearbeidet-kjott/kylling-kjottboller-smaa-4x15kg",
+      "image": "https://engrosnett.no/image/kjottprodukter/bearbeidet-kjott/1984020-1984020.jpg?lb=true&v=638180988545170000",
+      "category": null,
+      "description": null,
+      "ingredients": "Kyllingkj&#248;tt, maskinutbenet (77%), vann, storfefett, t&#248;rket l&#248;k, potetfiber, salt, krydder (paprika, l&#248;k, koriander, sort pepper, ingef&#230;r, gurkemeie, kardemomme, chili, spisskummenfr&#248;, l&#248;pstikke, karve, muskat, fennikel, bukkehornkl&#248;ver, persille, hvitl&#248;k), dekstrose (mais), krydderekstrakter (muskat, muskatblomme, pepper), hvitl&#248;ksgranulat. Stekt i rapsolje.",
+      "current_price": 1054,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 1054,
+          "date": "2024-01-08T07:14:17.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2024-01-07T07:11:59.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2024-01-06T07:15:36.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2024-01-05T07:11:28.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2024-01-04T07:16:27.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2024-01-03T07:16:05.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2024-01-02T07:12:25.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2024-01-01T07:11:24.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-31T07:11:56.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-30T07:10:45.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-29T07:16:32.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-28T07:12:28.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-27T07:14:46.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-26T07:12:17.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-25T07:10:51.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-24T07:13:12.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-23T07:13:51.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-22T07:14:16.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-21T07:13:10.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-20T07:10:59.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-19T07:10:24.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-18T07:11:00.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-17T07:11:05.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-16T07:11:22.000000Z"
+        },
+        {
+          "price": 1054,
+          "date": "2023-12-15T07:16:21.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-13T17:13:29.000000Z",
+      "updated_at": "2024-05-05T21:50:38.000000Z"
+    },
+    {
+      "id": 55818,
+      "name": "Wraps Kylling pr stykk",
+      "brand": null,
+      "vendor": "Egenprodusert",
+      "ean": "2000963600000",
+      "url": "https://spar.no/nettbutikk/varer/middag/ferdigmaltider/taco-ferdig/wraps-2000963600000",
+      "image": "https://bilder.ngdata.no/9636/kmh/large.jpg",
+      "category": [
+        {
+          "id": 33,
+          "depth": -2,
+          "name": "Middag"
+        },
+        {
+          "id": 70,
+          "depth": -1,
+          "name": "Ferdigmåltider"
+        },
+        {
+          "id": 732,
+          "depth": 0,
+          "name": "Taco ferdig"
+        }
+      ],
+      "description": null,
+      "ingredients": null,
+      "current_price": 1000,
+      "current_unit_price": 1000,
+      "weight": 1,
+      "weight_unit": null,
+      "store": {
+        "name": "SPAR",
+        "code": "SPAR_NO",
+        "url": "https://spar.no/nettbutikk/varer",
+        "logo": "https://kassal.app/logos/Spar.svg"
+      },
+      "price_history": [
+        {
+          "price": 1000,
+          "date": "2024-06-20T05:01:15.000000Z"
+        },
+        {
+          "price": 1000,
+          "date": "2024-06-19T05:01:22.000000Z"
+        },
+        {
+          "price": 1000,
+          "date": "2024-06-18T05:00:59.000000Z"
+        },
+        {
+          "price": 1000,
+          "date": "2024-06-17T05:01:23.000000Z"
+        },
+        {
+          "price": 1000,
+          "date": "2024-06-16T05:01:20.000000Z"
+        },
+        {
+          "price": 1000,
+          "date": "2024-06-15T05:01:21.000000Z"
+        },
+        {
+          "price": 1000,
+          "date": "2024-06-14T05:01:23.000000Z"
+        },
+        {
+          "price": 1000,
+          "date": "2024-06-13T05:00:52.000000Z"
+        },
+        {
+          "price": 1000,
+          "date": "2024-06-12T05:01:30.000000Z"
+        },
+        {
+          "price": 1000,
+          "date": "2024-06-11T05:01:18.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-12T07:08:30.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-09T07:07:05.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-09T07:04:53.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-09T07:02:46.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-08T07:07:28.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-08T07:05:14.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-08T07:02:58.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-07T07:07:09.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-07T07:04:57.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-07T07:02:51.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-06T07:06:37.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-06T07:04:24.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-06T07:02:19.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-05T07:07:09.000000Z"
+        },
+        {
+          "price": 59.9,
+          "date": "2023-12-05T07:05:02.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "UNKNOWN"
+        }
+      ],
+      "nutrition": [],
+      "labels": [],
+      "created_at": "2022-10-31T21:21:52.000000Z",
+      "updated_at": "2024-06-20T05:01:15.000000Z"
+    },
+    {
+      "id": 39772,
+      "name": "Kyllingfilet 5kg Prior",
+      "brand": "PRIOR",
+      "vendor": null,
+      "ean": "7039611053351",
+      "url": "https://engrosnett.no/kjottprodukter/fjorfe/kyllingfilet-5kg-prior",
+      "image": "https://engrosnett.no/image/kylling-og-fjorfe/1580455-1580455.jpg?lb=true&v=638180975830570000",
+      "category": null,
+      "description": null,
+      "ingredients": "Kyllingfilet",
+      "current_price": 915,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 915,
+          "date": "2024-01-08T07:12:40.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2024-01-07T07:15:31.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2024-01-06T07:14:08.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2024-01-05T07:14:09.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2024-01-04T07:11:05.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2024-01-03T07:11:00.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2024-01-02T07:11:50.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2024-01-01T07:13:38.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-31T07:14:56.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-30T07:11:05.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-29T07:12:47.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-28T07:12:56.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-27T07:14:18.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-26T07:16:02.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-25T07:12:45.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-24T07:13:47.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-23T07:14:06.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-22T07:15:32.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-21T07:15:29.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-20T07:15:27.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-19T07:10:36.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-18T07:15:31.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-17T07:15:49.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-16T07:10:49.000000Z"
+        },
+        {
+          "price": 915,
+          "date": "2023-12-15T07:13:09.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "macadamianott",
+          "display_name": "Macademiannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-13T17:13:32.000000Z",
+      "updated_at": "2024-05-05T21:50:43.000000Z"
+    },
+    {
+      "id": 40682,
+      "name": "Kjøttdeig Kylling 4x2,5kg",
+      "brand": "VESTFOLD FUGL",
+      "vendor": null,
+      "ean": null,
+      "url": "https://engrosnett.no/kjottprodukter/fjorfe/kjottdeig-kylling-4x25kg",
+      "image": "https://engrosnett.no/image/kjottprodukter/fjorfe/5440151-5440151.jpg?lb=true&v=638181106597130000",
+      "category": null,
+      "description": null,
+      "ingredients": null,
+      "current_price": 897,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 897,
+          "date": "2023-12-20T07:10:41.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-19T07:16:07.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-18T07:11:01.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-17T07:11:37.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-16T07:10:56.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-15T07:11:14.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-14T07:14:03.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-13T07:11:17.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-12T07:10:30.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-11T07:15:55.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-10T07:12:36.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-09T07:10:43.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-08T07:11:00.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-07T07:13:07.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-06T07:15:38.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-05T07:16:11.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-04T07:16:27.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-03T07:15:37.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-02T07:14:51.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-12-01T07:15:49.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-11-30T07:11:01.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-11-29T07:10:54.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-11-28T07:13:30.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-11-27T07:15:32.000000Z"
+        },
+        {
+          "price": 897,
+          "date": "2023-11-26T07:14:51.000000Z"
+        }
+      ],
+      "allergens": [],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-13T17:21:44.000000Z",
+      "updated_at": "2024-05-05T21:52:09.000000Z"
+    }
+  ],
+  "links": {
+    "first": "https://kassal.app/api/v1/products?page=1",
+    "last": null,
+    "prev": null,
+    "next": "https://kassal.app/api/v1/products?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "path": "https://kassal.app/api/v1/products",
+    "per_page": 10,
+    "to": 10
+  }
+}

@@ -1,0 +1,2946 @@
+{
+  "data": [
+    {
+      "id": 39915,
+      "name": "Supreme Rapsolje M/Smørsmak Bib 10l",
+      "brand": "ORKLA",
+      "vendor": null,
+      "ean": "7037619067707",
+      "url": "https://engrosnett.no/dressinger-olje/olje-og-eddik/supreme-rapsolje-m/smorsmak-bib-10l",
+      "image": "https://engrosnett.no/image/dressinger-og-olje/olje-og-eddik/579441-579441-jpg?lb=true&v=638181107545230000",
+      "category": null,
+      "description": null,
+      "ingredients": "Rapsolje 98 %, emulgator (rapslecitin, mono- og diglyserider av fettsyrer),  fargestoff (betakaroten), sm&#248;raroma.",
+      "current_price": 979.11,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 979.11,
+          "date": "2026-07-03T07:14:18.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-07-02T07:11:48.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-07-01T07:11:45.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-30T07:12:05.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-29T07:10:55.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-28T07:12:45.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-27T07:14:37.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-26T07:11:17.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-25T07:12:09.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-24T07:12:44.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-23T07:13:17.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-22T07:11:53.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-21T07:12:33.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-20T07:13:18.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-19T07:11:07.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-18T07:11:30.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-17T07:10:56.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-16T07:14:51.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-15T07:14:35.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-14T07:14:08.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-13T07:12:00.000000Z"
+        },
+        {
+          "price": 979.11,
+          "date": "2026-06-12T07:12:54.000000Z"
+        },
+        {
+          "price": 887.63,
+          "date": "2026-06-11T07:10:49.000000Z"
+        },
+        {
+          "price": 887.63,
+          "date": "2026-06-10T07:13:35.000000Z"
+        },
+        {
+          "price": 887.63,
+          "date": "2026-06-09T07:11:03.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "macadamianott",
+          "display_name": "Macademiannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [
+        {
+          "name": "nokkelhull",
+          "display_name": "Nøkkelhull",
+          "description": "Nøkkelhullet er en offentlig merkeordning for matvarer. Merkeordningen skal gjøre det enkelt å velge sunnere matvarer som inneholder mer fiber og fullkorn og mindre fett, sukker og salt. Innenfor hver matvaregruppe er det satt ulike kriterier for innholdet av disse næringsstoffene.",
+          "organization": null,
+          "alternative_names": null,
+          "type": null,
+          "year_established": 2009,
+          "about": "<div>Nøkkelhullet er en merkeordning opprettet av myndighetene for å hjelpe folk med å ta sunnere valg i matvarene de kjøper. Matvarer merket med Nøkkelhullet inneholder mindre fett, sukker og salt, og mer fiber og fullkorn. Merket gjør det enklere å identifisere sunnere alternativer. Logoens grønne sirkel med hvitt nøkkelhull er kjennetegnet på Nøkkelhullet.<br><br></div><div>Ved å velge Nøkkelhullet-merkede matvarer kan man enkelt gjøre sunnere endringer i kostholdet. Produktene inneholder mer fiber og fullkorn, mindre mettet fett, sukker og salt, og noen kan også ha mer grønnsaker, frukt og bær. Det finnes mange Nøkkelhull-merkede matvarer, og det er ikke nødvendig å gjøre store endringer i kostholdet. Nøkkelhullet er en frivillig merkeordning som er regulert av Helsedirektoratet og Mattilsynet.<br><br></div><div>Nøkkelhullet tildeles matvarer basert på kriterier for innholdet av fett, mettet fett, sukker, salt, fiber og fullkorn innenfor ulike matvaregrupper. Merket omfatter blant annet grønnsaker, frukt, bær, kornprodukter, meieriprodukter, kjøtt, fisk og vegetabilske produkter. Godteri, brus, kaker og kjeks er ikke kvalifisert for Nøkkelhullet. Ordningen er felles for Norge, Sverige, Danmark og Island, og Mattilsynet fører tilsyn for å sikre at merkets regler overholdes.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Nokkelhull.svg",
+            "png": "https://kassal.app/labels/png/Nokkelhull.png"
+          }
+        }
+      ],
+      "created_at": "2022-01-13T17:13:37.000000Z",
+      "updated_at": "2026-07-03T07:14:18.000000Z"
+    },
+    {
+      "id": 109755,
+      "name": "Meierismør Kuvert 12g 200stk Tine",
+      "brand": "Tine",
+      "vendor": "Tine sa",
+      "ean": "7038010107610",
+      "url": "https://meny.no/Varer/palegg-frokost/smor-margarin-og-matfett/smor/meierismor-7038010107610",
+      "image": "https://bilder.ngdata.no/7038010107610/meny/large.jpg",
+      "category": [
+        {
+          "id": 8,
+          "depth": -2,
+          "name": "Meieri & egg"
+        },
+        {
+          "id": 99,
+          "depth": -1,
+          "name": "Smør og margarin"
+        },
+        {
+          "id": 230,
+          "depth": 0,
+          "name": "Smør"
+        }
+      ],
+      "description": "TINE® Meierismør er et rent naturprodukt kjernet av fersk fløte, og blir brukt av kokker og matelskere på grunn av sin gode smak og evne til å løfte fram andre smaker.",
+      "ingredients": "Fløte, salt, syrekultur, vitamin d",
+      "current_price": 785,
+      "current_unit_price": 3.93,
+      "weight": 200,
+      "weight_unit": null,
+      "store": {
+        "name": "Meny",
+        "code": "MENY_NO",
+        "url": "https://meny.no/Varer",
+        "logo": "https://kassal.app/logos/Meny.svg"
+      },
+      "price_history": [
+        {
+          "price": 785,
+          "date": "2026-07-03T07:02:47.000000Z"
+        },
+        {
+          "price": 785,
+          "date": "2026-07-03T07:01:47.000000Z"
+        },
+        {
+          "price": 785,
+          "date": "2026-07-02T07:03:19.000000Z"
+        },
+        {
+          "price": 785,
+          "date": "2026-07-02T07:01:58.000000Z"
+        },
+        {
+          "price": 785,
+          "date": "2026-07-01T07:03:04.000000Z"
+        },
+        {
+          "price": 785,
+          "date": "2026-07-01T07:01:55.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-30T07:03:03.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-30T07:01:51.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-29T07:03:14.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-29T07:02:03.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-28T07:02:54.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-28T07:01:50.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-27T07:03:04.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-27T07:01:57.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-26T07:02:54.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-26T07:01:55.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-25T07:03:12.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-25T07:01:51.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-24T07:03:02.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-24T07:01:58.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-23T07:02:53.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-23T07:01:53.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-22T07:02:46.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-22T07:01:46.000000Z"
+        },
+        {
+          "price": 780,
+          "date": "2026-06-21T07:02:59.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "macadamianott",
+          "display_name": "Macademiannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 742,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 3051,
+          "unit": "kj"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 82,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0.5,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 53,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0.5,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 1.1,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0.5,
+          "unit": "g"
+        }
+      ],
+      "labels": [
+        {
+          "name": "nyt_norge",
+          "display_name": "Nyt Norge",
+          "description": "Nyt Norge er en merkeordning som gjør det enklere for kunden å velge norske produkter. For å få produktet stemplet med Nyt Norge må råvarene være norske, bonden må følge norsk regelverk samt at maten må være produsert og pakket i Norge.",
+          "organization": "Stiftelsen Norsk Mat",
+          "alternative_names": null,
+          "type": null,
+          "year_established": 2009,
+          "about": "<div>Nyt Norge er en merkeordning som ble etablert av Stiftelsen Norsk Mat i 2009 for å fremme norske matvarer. Hovedmålet med Nyt Norge er å synliggjøre norske produkter og gjøre det enkelt for forbrukerne å velge norske matvarer i butikkene.<br><br></div><div>For å bli merket med \"Nyt Norge\" må matprodusenter oppfylle tre krav. Produktene må bestå av norske råvarer, bøndene må følge norske regler gjennom <a href=\"https://www.ksl.no/no/ksl-standarder/copy_om-ksl\">Kvalitetssystemet i Landbruket</a> (KSL), og produktet må være produsert og pakket i Norge. Noen produkter, som kjøtt, melk og egg, krever 100% norsk opprinnelse, mens sammensatte produkter tillates opptil 25% ikke-norske ingredienser.</div><div><br>Per januar 2020 var det over 4 300 produkter merket med Nyt Norge. Merkeordningen bidrar til å sikre norsk dyrehelse og miljø, da Norge bruker mindre plantevernmidler og er blant de landene i verden som bruker minst antibiotika til husdyr. Norske bønder følger strenge regler som kontrolleres gjennom KSL for å sikre trygg matproduksjon.</div><div><br>Ved å velge mat merket med Nyt Norge, støtter forbrukerne norske arbeidsplasser. Rundt 100 000 mennesker over hele landet er involvert i produksjonen av maten vi spiser. Nyt Norge-merket gjør det enkelt å velge norsk og nyte de gode smakene av norske bær om sommeren, grønnsaker om høsten, tradisjonelle retter som pinnekjøtt og ribbe til jul, og andre norske kvalitetsprodukter.</div><div><br>Nyt Norge fortsetter å jobbe for å fremme norsk matkultur, bærekraft og selvforsyning. Gjennom merkeordningen og informasjonskampanjer oppfordrer de forbrukerne til å ta bevisste valg og støtte norske matvarer. Ved å velge Nyt Norge kan vi alle bidra til å opprettholde og videreføre norske mattradisjoner og verdiskaping i norsk matproduksjon.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Nyt Norge.svg",
+            "png": "https://kassal.app/labels/png/Nyt Norge.png"
+          }
+        }
+      ],
+      "created_at": "2023-06-11T12:15:53.000000Z",
+      "updated_at": "2026-07-03T07:02:47.000000Z"
+    },
+    {
+      "id": 108949,
+      "name": "Urtesmør Marinade 5kg Solina",
+      "brand": "Solina",
+      "vendor": "Solina norway as",
+      "ean": "7090049730184",
+      "url": "https://meny.no/Varer/middagstilbehor/krydder/kryddermix/urtesmor-7090049730184",
+      "image": "https://bilder.ngdata.no/7090049730184/meny/large.jpg",
+      "category": [
+        {
+          "id": 4,
+          "depth": -2,
+          "name": "Middagstilbehør"
+        },
+        {
+          "id": 249,
+          "depth": -1,
+          "name": "Krydder"
+        },
+        {
+          "id": 504,
+          "depth": 0,
+          "name": "Kryddermix"
+        }
+      ],
+      "description": null,
+      "ingredients": "Vegetabilsk olje/raps (delvis hærdet), glukosesirup, salt, valleproteinkoncentrat, fløte pulver, krydder, løk,\nhydrolyseret vegetabilsk protein, aroma/melk, krydderurter, spinat",
+      "current_price": 615.2,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Meny",
+        "code": "MENY_NO",
+        "url": "https://meny.no/Varer",
+        "logo": "https://kassal.app/logos/Meny.svg"
+      },
+      "price_history": [
+        {
+          "price": 615.2,
+          "date": "2023-08-03T05:01:08.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-08-02T05:01:26.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-08-01T05:01:43.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-31T05:03:21.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-31T05:01:54.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-30T05:03:22.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-30T05:01:30.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-29T05:03:22.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-29T05:01:46.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-28T05:01:42.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-27T05:03:23.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-27T05:01:36.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-26T05:01:31.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-25T05:03:35.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-25T05:01:29.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-24T05:03:52.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-24T05:01:58.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-23T05:01:17.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-22T05:00:52.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-21T05:01:12.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-20T05:01:08.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-19T05:00:43.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-18T05:01:05.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-17T05:00:56.000000Z"
+        },
+        {
+          "price": 615.2,
+          "date": "2023-07-16T05:01:20.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 680,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 2849,
+          "unit": "kj"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 67.9,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 18.1,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0.4,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 10.8,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 1.5,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 10.3,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2023-06-11T12:15:47.000000Z",
+      "updated_at": "2024-05-05T22:52:28.000000Z"
+    },
+    {
+      "id": 41723,
+      "name": "Smørflyndre Filet Vill pr Kg",
+      "brand": null,
+      "vendor": "Diverse leverandører",
+      "ean": "2000984400009",
+      "url": "https://meny.no/Varer/fisk-skalldyr/fisk/flyndrefisk/smorflyndre/smorflyndre-2000984400009",
+      "image": "https://bilder.ngdata.no/9844/meny/large.jpg",
+      "category": [
+        {
+          "id": 105,
+          "depth": -2,
+          "name": "Fisk & skalldyr"
+        },
+        {
+          "id": 106,
+          "depth": -1,
+          "name": "Fisk"
+        },
+        {
+          "id": 2237,
+          "depth": 0,
+          "name": "Flyndre/rødspette"
+        }
+      ],
+      "description": null,
+      "ingredients": "<b>Smørflyndre</b> (Glyptocephalus cynoglossus)",
+      "current_price": 599,
+      "current_unit_price": 599,
+      "weight": 1000,
+      "weight_unit": "g",
+      "store": {
+        "name": "Meny",
+        "code": "MENY_NO",
+        "url": "https://meny.no/Varer",
+        "logo": "https://kassal.app/logos/Meny.svg"
+      },
+      "price_history": [
+        {
+          "price": 599,
+          "date": "2026-07-03T07:00:29.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-07-02T07:00:32.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-07-01T07:00:15.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-30T07:00:10.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-29T07:00:11.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-28T07:00:09.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-27T07:00:14.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-26T07:00:12.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-25T07:00:20.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-24T07:00:16.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-23T07:00:09.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-22T07:00:10.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-21T07:00:12.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-20T07:00:17.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-19T07:00:15.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-18T07:00:13.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-17T07:00:17.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-16T07:00:13.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-15T07:00:07.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-14T07:00:14.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-13T07:00:18.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-12T07:00:17.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-11T07:00:15.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-10T07:00:14.000000Z"
+        },
+        {
+          "price": 599,
+          "date": "2026-06-09T07:00:14.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "UNKNOWN"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 85,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 359,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 2.4,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0.5,
+          "unit": "g"
+        },
+        {
+          "code": "polyoler",
+          "display_name": "Sukkeralkoholer",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 15.9,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0.2,
+          "unit": "g"
+        },
+        {
+          "code": "stivelse",
+          "display_name": "Stivelse",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-02-17T16:52:05.000000Z",
+      "updated_at": "2026-07-03T07:00:29.000000Z"
+    },
+    {
+      "id": 37930,
+      "name": "Smørflyndre Flådd pr Kg",
+      "brand": null,
+      "vendor": "Diverse leverandører",
+      "ean": "2000171400003",
+      "url": "https://meny.no/Varer/fisk-skalldyr/fisk/flyndrefisk/smorflyndre/smorflyndre-2000171400003",
+      "image": "https://bilder.ngdata.no/1714/meny/large.jpg",
+      "category": [
+        {
+          "id": 105,
+          "depth": -2,
+          "name": "Fisk & skalldyr"
+        },
+        {
+          "id": 106,
+          "depth": -1,
+          "name": "Fisk"
+        },
+        {
+          "id": 2237,
+          "depth": 0,
+          "name": "Flyndre/rødspette"
+        }
+      ],
+      "description": null,
+      "ingredients": "<b>Smørflyndre</b> (Glyptocephalus cynoglossus)",
+      "current_price": 509,
+      "current_unit_price": 509,
+      "weight": 1000,
+      "weight_unit": null,
+      "store": {
+        "name": "Meny",
+        "code": "MENY_NO",
+        "url": "https://meny.no/Varer",
+        "logo": "https://kassal.app/logos/Meny.svg"
+      },
+      "price_history": [
+        {
+          "price": 509,
+          "date": "2026-01-22T08:00:34.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2026-01-21T08:00:17.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2026-01-20T08:00:14.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2026-01-19T08:00:26.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2026-01-01T08:00:33.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-31T08:00:25.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-30T08:00:12.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-29T08:00:25.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-28T08:00:28.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-27T08:00:23.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-26T08:00:22.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-25T08:00:50.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-24T08:00:39.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-23T08:00:34.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-22T08:00:41.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-21T08:00:40.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-19T08:00:32.000000Z"
+        },
+        {
+          "price": 509,
+          "date": "2025-12-18T08:00:43.000000Z"
+        },
+        {
+          "price": 439,
+          "date": "2025-10-22T07:05:36.000000Z"
+        },
+        {
+          "price": 439,
+          "date": "2025-10-22T07:02:33.000000Z"
+        },
+        {
+          "price": 439,
+          "date": "2025-10-22T07:00:34.000000Z"
+        },
+        {
+          "price": 439,
+          "date": "2025-10-21T07:00:31.000000Z"
+        },
+        {
+          "price": 439,
+          "date": "2025-10-20T07:00:27.000000Z"
+        },
+        {
+          "price": 439,
+          "date": "2025-10-19T07:01:52.000000Z"
+        },
+        {
+          "price": 439,
+          "date": "2025-10-19T07:00:29.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "UNKNOWN"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 85,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 359,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 2.4,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0.5,
+          "unit": "g"
+        },
+        {
+          "code": "polyoler",
+          "display_name": "Sukkeralkoholer",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 17,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0.2,
+          "unit": "g"
+        },
+        {
+          "code": "stivelse",
+          "display_name": "Stivelse",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-12T19:27:29.000000Z",
+      "updated_at": "2026-01-22T08:00:33.000000Z"
+    },
+    {
+      "id": 25715,
+      "name": "Smørbrødgrill Krups 1 stk",
+      "brand": "KRUPS",
+      "vendor": "Clas Ohlson",
+      "ean": null,
+      "url": "https://oda.com/no/products/29864-krups-smorbrodgrill-krups/",
+      "image": "https://bilder.kolonial.no/produkter/a84fa00c-2fb8-4afe-b2e0-10e35ebf79e6.jpg?auto=format&fit=max&w=1000&s=26532d8f8893facbcc2d62f1c23b337d",
+      "category": [
+        {
+          "id": 51,
+          "depth": -2,
+          "name": "Hus & hjem"
+        },
+        {
+          "id": 290,
+          "depth": -1,
+          "name": "Kjøkken"
+        },
+        {
+          "id": 775,
+          "depth": 0,
+          "name": "Kjøkkenmaskiner"
+        }
+      ],
+      "description": "Smørbrødgrill som raskt toaster to store smørbrød. \r\nFlott toastjern designet av Constantin Grcic. \r\n850 W varmeelement gir høy temperatur for best mulig resultat. \r\nBehagelige, varmeisolerte håndtak.",
+      "ingredients": null,
+      "current_price": 499.9,
+      "current_unit_price": 499.9,
+      "weight": 1,
+      "weight_unit": "piece",
+      "store": {
+        "name": "Oda",
+        "code": "ODA_NO",
+        "url": "https://oda.com/no/",
+        "logo": "https://kassal.app/logos/Oda.svg"
+      },
+      "price_history": [
+        {
+          "price": 499.9,
+          "date": "2024-01-24T07:13:49.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-23T07:14:18.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-22T07:12:40.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-21T07:11:59.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-20T07:12:57.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-19T07:13:32.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-18T07:13:43.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-17T07:12:59.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-16T07:13:24.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-15T07:13:30.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-14T07:11:47.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-13T07:13:46.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-12T07:12:27.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-11T07:11:39.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-10T07:13:55.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-09T07:14:04.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-08T07:13:26.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-07T07:14:56.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-06T07:13:00.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-05T07:13:20.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-04T07:14:12.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-03T07:13:38.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-02T07:12:31.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2024-01-01T07:13:06.000000Z"
+        },
+        {
+          "price": 499.9,
+          "date": "2023-12-31T07:12:57.000000Z"
+        }
+      ],
+      "allergens": [],
+      "nutrition": [],
+      "labels": [],
+      "created_at": "2022-01-09T18:57:04.000000Z",
+      "updated_at": "2024-05-05T21:27:47.000000Z"
+    },
+    {
+      "id": 41136,
+      "name": "Tine Meierismør Kuvert 200x12g",
+      "brand": "TINE",
+      "vendor": null,
+      "ean": "7038010107610",
+      "url": "https://engrosnett.no/meieri-egg-margarin/smor-og-margarin/tine-meierismor-kuvert-200x12g",
+      "image": "https://engrosnett.no/image/smor-og-margarin/804740-804740.png?lb=true&v=638181109785000000",
+      "category": [
+        {
+          "id": 8,
+          "depth": -2,
+          "name": "Meieri & egg"
+        },
+        {
+          "id": 99,
+          "depth": -1,
+          "name": "Smør og margarin"
+        },
+        {
+          "id": 230,
+          "depth": 0,
+          "name": "Smør"
+        }
+      ],
+      "description": null,
+      "ingredients": "Fl&#248;te, salt, syrekultur, vitamin D",
+      "current_price": 457.56,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 457.56,
+          "date": "2026-07-03T07:14:08.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-07-02T07:13:50.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-07-01T07:12:44.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-30T07:11:24.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-29T07:11:20.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-28T07:15:10.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-27T07:13:14.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-26T07:15:07.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-25T07:13:27.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-24T07:10:59.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-23T07:11:49.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-22T07:11:50.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-21T07:12:54.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-20T07:12:56.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-19T07:13:07.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-18T07:13:05.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-17T07:11:41.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-16T07:11:20.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-15T07:11:18.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-14T07:13:02.000000Z"
+        },
+        {
+          "price": 457.56,
+          "date": "2026-06-13T07:12:01.000000Z"
+        },
+        {
+          "price": 483.6,
+          "date": "2026-06-12T07:13:39.000000Z"
+        },
+        {
+          "price": 483.6,
+          "date": "2026-06-11T07:14:29.000000Z"
+        },
+        {
+          "price": 483.6,
+          "date": "2026-06-10T07:13:32.000000Z"
+        },
+        {
+          "price": 483.6,
+          "date": "2026-06-09T07:12:47.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "macadamianott",
+          "display_name": "Macademiannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [
+        {
+          "name": "nyt_norge",
+          "display_name": "Nyt Norge",
+          "description": "Nyt Norge er en merkeordning som gjør det enklere for kunden å velge norske produkter. For å få produktet stemplet med Nyt Norge må råvarene være norske, bonden må følge norsk regelverk samt at maten må være produsert og pakket i Norge.",
+          "organization": "Stiftelsen Norsk Mat",
+          "alternative_names": null,
+          "type": null,
+          "year_established": 2009,
+          "about": "<div>Nyt Norge er en merkeordning som ble etablert av Stiftelsen Norsk Mat i 2009 for å fremme norske matvarer. Hovedmålet med Nyt Norge er å synliggjøre norske produkter og gjøre det enkelt for forbrukerne å velge norske matvarer i butikkene.<br><br></div><div>For å bli merket med \"Nyt Norge\" må matprodusenter oppfylle tre krav. Produktene må bestå av norske råvarer, bøndene må følge norske regler gjennom <a href=\"https://www.ksl.no/no/ksl-standarder/copy_om-ksl\">Kvalitetssystemet i Landbruket</a> (KSL), og produktet må være produsert og pakket i Norge. Noen produkter, som kjøtt, melk og egg, krever 100% norsk opprinnelse, mens sammensatte produkter tillates opptil 25% ikke-norske ingredienser.</div><div><br>Per januar 2020 var det over 4 300 produkter merket med Nyt Norge. Merkeordningen bidrar til å sikre norsk dyrehelse og miljø, da Norge bruker mindre plantevernmidler og er blant de landene i verden som bruker minst antibiotika til husdyr. Norske bønder følger strenge regler som kontrolleres gjennom KSL for å sikre trygg matproduksjon.</div><div><br>Ved å velge mat merket med Nyt Norge, støtter forbrukerne norske arbeidsplasser. Rundt 100 000 mennesker over hele landet er involvert i produksjonen av maten vi spiser. Nyt Norge-merket gjør det enkelt å velge norsk og nyte de gode smakene av norske bær om sommeren, grønnsaker om høsten, tradisjonelle retter som pinnekjøtt og ribbe til jul, og andre norske kvalitetsprodukter.</div><div><br>Nyt Norge fortsetter å jobbe for å fremme norsk matkultur, bærekraft og selvforsyning. Gjennom merkeordningen og informasjonskampanjer oppfordrer de forbrukerne til å ta bevisste valg og støtte norske matvarer. Ved å velge Nyt Norge kan vi alle bidra til å opprettholde og videreføre norske mattradisjoner og verdiskaping i norsk matproduksjon.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Nyt Norge.svg",
+            "png": "https://kassal.app/labels/png/Nyt Norge.png"
+          }
+        }
+      ],
+      "created_at": "2022-01-13T17:23:38.000000Z",
+      "updated_at": "2026-07-03T07:14:08.000000Z"
+    },
+    {
+      "id": 226102,
+      "name": "Smør Smakskraftig Økologisk Røros",
+      "brand": "Røros",
+      "vendor": "Rørosmeieriet as",
+      "ean": "7090006470092",
+      "url": "https://meny.no/Varer/palegg-frokost/smor-margarin-og-matfett/smor/smor-smakskraftig-7090006470092",
+      "image": "https://bilder.ngdata.no/7090006470092/meny/large.jpg",
+      "category": [
+        {
+          "id": 13,
+          "depth": -2,
+          "name": "Pålegg & frokost"
+        },
+        {
+          "id": 8759,
+          "depth": -1,
+          "name": "Smør, margarin og matfett"
+        },
+        {
+          "id": 8760,
+          "depth": 0,
+          "name": "Smør"
+        }
+      ],
+      "description": "“Smøret ska vårrå åpent med dråppåa og nåen saltkoinn.”Slik beskrev Ingrid Skancke i Djupsjølia ved Røros det perfekte smøret. Det er etter inspirasjon fra Ingrid at Rørosmeieriet har utviklet oppskriften til det økologiske Røros Smør.Fløte syrnes over lang tid til rømme som så kjernes til smør før det tørrsaltes med norsk uraffinert havsalt. Smøret vårt er mindre kompakt enn andre typer smør og har en aromatisk lett syrlig og tydelig smørsmak. Det har sin helt naturlige farge fasthet og smak.Innholdet av fett varierer naturlig med årstidene og smøret som kjernes om sommeren er gulere og mykere enn det som kjernes vinterstid.Økologisk Røros Smør har fått Matmerks Spesialitetsmerke og ble i 2013 kåret til Beste Meieriprodukt i Det Norske Måltid.",
+      "ingredients": "Lavpasteurisert ikke-homogenisert røros rømme (fløte og mjølkesyrekultur) og uraffinert havsalt",
+      "current_price": 399,
+      "current_unit_price": 199.5,
+      "weight": 2000,
+      "weight_unit": null,
+      "store": {
+        "name": "Meny",
+        "code": "MENY_NO",
+        "url": "https://meny.no/Varer",
+        "logo": "https://kassal.app/logos/Meny.svg"
+      },
+      "price_history": [
+        {
+          "price": 399,
+          "date": "2026-07-03T07:02:43.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-07-03T07:01:40.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-07-02T07:03:13.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-07-02T07:01:50.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-07-01T07:02:59.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-07-01T07:01:48.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-30T07:02:59.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-30T07:01:43.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-29T07:03:09.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-29T07:01:53.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-28T07:02:43.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-28T07:01:26.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-27T07:02:52.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-27T07:01:36.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-26T07:02:44.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-26T07:01:35.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-25T07:03:01.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-25T07:01:31.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-24T07:02:51.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-24T07:01:38.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-23T07:02:44.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-23T07:01:34.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-22T07:02:37.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-22T07:01:29.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2026-06-21T07:02:48.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "macadamianott",
+          "display_name": "Macademiannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 773,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 3234,
+          "unit": "kj"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 85,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 56.6,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 2.3,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "labels": [
+        {
+          "name": "debio",
+          "display_name": "Debio",
+          "description": "Debio-merket er det offisielle norske økologimerket og gir en garanti for at en vare er økologisk dyrket.",
+          "organization": null,
+          "alternative_names": null,
+          "type": null,
+          "year_established": null,
+          "about": "<div>Debio-merket er det offisielle norske merket for økologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med økologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio økologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som følges for å oppnå Debio-sertifisering.<br><br></div><div>For å bli merket som økologisk av Debio, må produkter gjennomgå inspeksjoner og oppfylle strenge krav hvert år. Debio samarbeider tett med Mattilsynet for å sikre at økologisk produksjon og merking følger forskriftene om økologisk produksjon og merking av økologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole på at Debio-merket indikerer ekte økologiske produkter.<br><br></div><div>Debio-merket er et pålitelig symbol for forbrukere som ønsker å velge økologiske alternativer og støtte en bærekraftig matproduksjon i Norge. Ved å se etter Debio-merket, kan forbrukere enkelt identifisere og kjøpe produkter som er i tråd med deres ønske om å spise økologisk.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Debio.svg",
+            "png": "https://kassal.app/labels/png/Debio.png"
+          }
+        },
+        {
+          "name": "resin5",
+          "display_name": "Polypropylen (PP)",
+          "description": "Type plast brukt i produkter som bilreservedeler og matbeholdere",
+          "organization": "ASTM International",
+          "alternative_names": null,
+          "type": "Plastmerke",
+          "year_established": null,
+          "about": "PP (polypropylen) brukes til å lage bildeler, industrielle fibre, matbeholdere og servise. Denne typen plast kan vanligvis resirkuleres gjennom de fleste kommunale gjenvinningsprogrammer.",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Resin5.svg",
+            "png": "https://kassal.app/labels/png/Resin5.png"
+          }
+        },
+        {
+          "name": "spesialitet",
+          "display_name": "Spesialitet",
+          "description": "Spesialitet er et offisielt informasjonsmerke som tildeles den beste lokalmat- og drikke. Merket skal løfte fram lokalmat- og drikke med særlige kvaliteter og gjøre den enkel å finne i butikken.",
+          "organization": "Stiftelsen Norsk Mat",
+          "alternative_names": null,
+          "type": null,
+          "year_established": null,
+          "about": "<div>Spesialitet er en merkeordning som fremhever det beste av lokal mat og drikke i Norge. Produktene som får Spesialitet-merket er nøye utvalgt av en uavhengig fagjury med høy matfaglig kompetanse. Juryen møtes fire ganger i året for å vurdere produkter basert på kvalitet, norsk råvare og særegen oppskrift. Produktene som er merket med Spesialitet har norsk opprinnelse, håndverkspreg og en tydelig lokal forankring.<br><br></div><div><br>En fagjury bestående av ti medlemmer smaker seg gjennom lokalprodusert mat og drikke for å finne de beste produktene med gode historier innenfor sine kategorier. Merket, som finnes på over 500 produkter, gjør det enkelt for forbrukere å oppdage unike smaksopplevelser og støtte mangfoldet i norsk mat- og drikkeproduksjon.<br><br></div><div><br>Spesialitet-merkeordningen drives av Stiftelsen Norsk Mat, en uavhengig stiftelse som representerer hele verdikjeden for mat- og drikkeproduksjon i Norge. Stiftelsen er også ansvarlig for kvalitetssystemet i landbruket og andre merkeordninger som Nyt Norge og Beskyttet Betegnelse.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Spesialitet.svg",
+            "png": "https://kassal.app/labels/png/Spesialitet.png"
+          }
+        },
+        {
+          "name": "glass_og_gaffel",
+          "display_name": "Glass og Gaffel",
+          "description": "Glass- og gaffelsymbolet er en merking som indikerer at materialer og gjenstander er trygge å bruke i forbindelse med mat.",
+          "organization": null,
+          "alternative_names": null,
+          "type": null,
+          "year_established": null,
+          "about": "<div>Glass- og gaffelsymbolet er en merking som produsenter bruker for å indikere at materialer og gjenstander er ment for kontakt med næringsmidler. Det fungerer som en form for kvalitetskontroll og forsikrer forbrukerne om at produktet oppfyller visse standarder for næringsmiddelkontakt. Symbolet består av et glass og en gaffel, som er vanlige symboler for drikkevarer og spisebestikk.<br><br></div><div><br>I tillegg til glass- og gaffelsymbolet kan produsenter også bruke alternative merkinger som \"for næringsmidler\" eller spesifikke betegnelser som beskriver bruksområdet til produktet, for eksempel \"brødpose\". Disse merkene tjener til å informere forbrukerne om at produktet er beregnet på bruk i forbindelse med næringsmidler. Kravene til å angi at et produkt er beregnet på næringsmidler gjelder ikke hvis det er tydelig angitt på selve produktet at det er ment for næringsmiddelbruk, for eksempel et glass eller en tallerken.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Glass og gaffel.svg",
+            "png": "https://kassal.app/labels/png/Glass og gaffel.png"
+          }
+        },
+        {
+          "name": "matskatt",
+          "display_name": "Matskatt",
+          "description": "Matskatter er norske produkter med unik kvalitet, i kombinasjon med klar lokal identitet og en god historie. Fordi lokalmat er viktig for deg, er stort utvalg norske matskatter viktig for oss.",
+          "organization": "MENY",
+          "alternative_names": null,
+          "type": null,
+          "year_established": null,
+          "about": "<div>Matskatt er en merkeordning fra <a href=\"https://kassal.app/kjeder/meny\">MENY</a> som omfavner lokal mat, regional mat, kortreist mat og gårdsmat under ett felles begrep. Matskatter er mat- og drikkeprodukter som utmerker seg med en ekstra god smak, unik kvalitet og en spesiell historie. Disse produktene er preget av klar lokal identitet og kommer ofte fra både små og store produsenter.<br><br></div><div>En Matskatt defineres av sin unike kvalitet, tydelig lokal identitet og en god historie. Det kan være alt fra en utmerket ost, en smakfull skinke, et nydelig syltetøy, delikat klippfisk, en renskåret lakseloin, gode pølser, gårdspresset eple eller en velsmakende potet. MENY har funnet over 4500 produkter fra rundt 450 lokale produsenter som passer inn i Matskatt-kategorien.<br><br></div><div>MENY-Lauget, som består av erfarne fagpersoner fra ulike områder som kokker, slaktere, pølsemakere og fiskehandlere, er ansvarlig for å oppdage og promotere Matskattene. De følger med på produktutviklingen i sin region og jakter kontinuerlig på nye Matskatter. Du kan se etter Matskatt-merket i MENY-butikkene og nettbutikken for å finne disse spesielle produktene.<br><br></div><div>Matskattene er viktige for kundene til MENY, og det er en del av deres innsats for å ivareta norske mattradisjoner og støtte visjonære produsenter. MENY deler også ut Matskattstipendet årlig, som gir produsenter muligheten til å utforske nye produkter, øke produksjonen eller realisere innovasjonsprosjekter. Produsentene som bidrar til mangfoldet og skaper de uunnværlige smakene i norske Matskatter blir verdsatt og anerkjent.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Matskatt.svg",
+            "png": "https://kassal.app/labels/png/Matskatt.png"
+          }
+        }
+      ],
+      "created_at": "2026-03-23T14:35:15.000000Z",
+      "updated_at": "2026-07-03T07:02:43.000000Z"
+    },
+    {
+      "id": 200014,
+      "name": "Smør Smakskraftig Økologisk Røros",
+      "brand": "Røros",
+      "vendor": "Rørosmeieriet as",
+      "ean": "7090006470092",
+      "url": "https://joker.no/nettbutikk/varer/meieriprodukter/smor-og-margarin/smor/smor-smakskraftig-7090006470092",
+      "image": "https://bilder.ngdata.no/7090006470092/kmh/large.jpg",
+      "category": [
+        {
+          "id": 8,
+          "depth": -2,
+          "name": "Meieri & egg"
+        },
+        {
+          "id": 99,
+          "depth": -1,
+          "name": "Smør og margarin"
+        },
+        {
+          "id": 230,
+          "depth": 0,
+          "name": "Smør"
+        }
+      ],
+      "description": "“Smøret ska vårrå åpent med dråppåa og nåen saltkoinn.”\nSlik beskrev Ingrid Skancke i Djupsjølia ved Røros det perfekte smøret. Det er etter inspirasjon fra Ingrid at Rørosmeieriet har utviklet oppskriften til det økologiske Røros Smør.\n\nFløte syrnes over lang tid til rømme, som så kjernes til smør før det tørrsaltes med norsk, uraffinert havsalt. Smøret vårt er mindre kompakt enn andre typer smør, og har en aromatisk, lett syrlig og tydelig smørsmak. Det har sin helt naturlige farge, fasthet og smak.\n\nInnholdet av fett varierer naturlig med årstidene, og smøret som kjernes om sommeren er gulere og mykere enn det som kjernes vinterstid.\n\nØkologisk Røros Smør har fått Matmerks Spesialitetsmerke, og ble i 2013 kåret til Beste Meieriprodukt i Det Norske Måltid.",
+      "ingredients": "Lavpasteurisert ikke-homogenisert røros rømme (fløte og mjølkesyrekultur) og norsk uraffinert havsalt",
+      "current_price": 379,
+      "current_unit_price": 189.5,
+      "weight": 2000,
+      "weight_unit": null,
+      "store": {
+        "name": "Joker",
+        "code": "JOKER_NO",
+        "url": "https://joker.no/nettbutikk/varer",
+        "logo": "https://kassal.app/logos/Joker.svg"
+      },
+      "price_history": [
+        {
+          "price": 379,
+          "date": "2024-05-02T05:05:03.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-05-01T05:08:35.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-30T05:07:18.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-30T05:05:13.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-29T05:08:18.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-26T05:07:49.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-23T05:08:26.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-23T05:05:34.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-23T05:02:44.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-22T05:07:49.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-22T05:05:07.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-21T05:08:31.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-19T05:08:24.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-19T05:05:27.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-19T05:02:38.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-18T05:07:59.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-18T05:05:32.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-18T05:02:45.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-17T05:08:12.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-17T05:05:48.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-17T05:02:32.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-16T05:07:46.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-16T05:05:20.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-16T05:02:33.000000Z"
+        },
+        {
+          "price": 379,
+          "date": "2024-04-15T05:08:13.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "macadamianott",
+          "display_name": "Macademiannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 773,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 3234,
+          "unit": "kj"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 85,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 56.6,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 2.3,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "labels": [
+        {
+          "name": "debio",
+          "display_name": "Debio",
+          "description": "Debio-merket er det offisielle norske økologimerket og gir en garanti for at en vare er økologisk dyrket.",
+          "organization": null,
+          "alternative_names": null,
+          "type": null,
+          "year_established": null,
+          "about": "<div>Debio-merket er det offisielle norske merket for økologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med økologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio økologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som følges for å oppnå Debio-sertifisering.<br><br></div><div>For å bli merket som økologisk av Debio, må produkter gjennomgå inspeksjoner og oppfylle strenge krav hvert år. Debio samarbeider tett med Mattilsynet for å sikre at økologisk produksjon og merking følger forskriftene om økologisk produksjon og merking av økologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole på at Debio-merket indikerer ekte økologiske produkter.<br><br></div><div>Debio-merket er et pålitelig symbol for forbrukere som ønsker å velge økologiske alternativer og støtte en bærekraftig matproduksjon i Norge. Ved å se etter Debio-merket, kan forbrukere enkelt identifisere og kjøpe produkter som er i tråd med deres ønske om å spise økologisk.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Debio.svg",
+            "png": "https://kassal.app/labels/png/Debio.png"
+          }
+        },
+        {
+          "name": "resin5",
+          "display_name": "Polypropylen (PP)",
+          "description": "Type plast brukt i produkter som bilreservedeler og matbeholdere",
+          "organization": "ASTM International",
+          "alternative_names": null,
+          "type": "Plastmerke",
+          "year_established": null,
+          "about": "PP (polypropylen) brukes til å lage bildeler, industrielle fibre, matbeholdere og servise. Denne typen plast kan vanligvis resirkuleres gjennom de fleste kommunale gjenvinningsprogrammer.",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Resin5.svg",
+            "png": "https://kassal.app/labels/png/Resin5.png"
+          }
+        },
+        {
+          "name": "spesialitet",
+          "display_name": "Spesialitet",
+          "description": "Spesialitet er et offisielt informasjonsmerke som tildeles den beste lokalmat- og drikke. Merket skal løfte fram lokalmat- og drikke med særlige kvaliteter og gjøre den enkel å finne i butikken.",
+          "organization": "Stiftelsen Norsk Mat",
+          "alternative_names": null,
+          "type": null,
+          "year_established": null,
+          "about": "<div>Spesialitet er en merkeordning som fremhever det beste av lokal mat og drikke i Norge. Produktene som får Spesialitet-merket er nøye utvalgt av en uavhengig fagjury med høy matfaglig kompetanse. Juryen møtes fire ganger i året for å vurdere produkter basert på kvalitet, norsk råvare og særegen oppskrift. Produktene som er merket med Spesialitet har norsk opprinnelse, håndverkspreg og en tydelig lokal forankring.<br><br></div><div><br>En fagjury bestående av ti medlemmer smaker seg gjennom lokalprodusert mat og drikke for å finne de beste produktene med gode historier innenfor sine kategorier. Merket, som finnes på over 500 produkter, gjør det enkelt for forbrukere å oppdage unike smaksopplevelser og støtte mangfoldet i norsk mat- og drikkeproduksjon.<br><br></div><div><br>Spesialitet-merkeordningen drives av Stiftelsen Norsk Mat, en uavhengig stiftelse som representerer hele verdikjeden for mat- og drikkeproduksjon i Norge. Stiftelsen er også ansvarlig for kvalitetssystemet i landbruket og andre merkeordninger som Nyt Norge og Beskyttet Betegnelse.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Spesialitet.svg",
+            "png": "https://kassal.app/labels/png/Spesialitet.png"
+          }
+        },
+        {
+          "name": "glass_og_gaffel",
+          "display_name": "Glass og Gaffel",
+          "description": "Glass- og gaffelsymbolet er en merking som indikerer at materialer og gjenstander er trygge å bruke i forbindelse med mat.",
+          "organization": null,
+          "alternative_names": null,
+          "type": null,
+          "year_established": null,
+          "about": "<div>Glass- og gaffelsymbolet er en merking som produsenter bruker for å indikere at materialer og gjenstander er ment for kontakt med næringsmidler. Det fungerer som en form for kvalitetskontroll og forsikrer forbrukerne om at produktet oppfyller visse standarder for næringsmiddelkontakt. Symbolet består av et glass og en gaffel, som er vanlige symboler for drikkevarer og spisebestikk.<br><br></div><div><br>I tillegg til glass- og gaffelsymbolet kan produsenter også bruke alternative merkinger som \"for næringsmidler\" eller spesifikke betegnelser som beskriver bruksområdet til produktet, for eksempel \"brødpose\". Disse merkene tjener til å informere forbrukerne om at produktet er beregnet på bruk i forbindelse med næringsmidler. Kravene til å angi at et produkt er beregnet på næringsmidler gjelder ikke hvis det er tydelig angitt på selve produktet at det er ment for næringsmiddelbruk, for eksempel et glass eller en tallerken.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Glass og gaffel.svg",
+            "png": "https://kassal.app/labels/png/Glass og gaffel.png"
+          }
+        },
+        {
+          "name": "matskatt",
+          "display_name": "Matskatt",
+          "description": "Matskatter er norske produkter med unik kvalitet, i kombinasjon med klar lokal identitet og en god historie. Fordi lokalmat er viktig for deg, er stort utvalg norske matskatter viktig for oss.",
+          "organization": "MENY",
+          "alternative_names": null,
+          "type": null,
+          "year_established": null,
+          "about": "<div>Matskatt er en merkeordning fra <a href=\"https://kassal.app/kjeder/meny\">MENY</a> som omfavner lokal mat, regional mat, kortreist mat og gårdsmat under ett felles begrep. Matskatter er mat- og drikkeprodukter som utmerker seg med en ekstra god smak, unik kvalitet og en spesiell historie. Disse produktene er preget av klar lokal identitet og kommer ofte fra både små og store produsenter.<br><br></div><div>En Matskatt defineres av sin unike kvalitet, tydelig lokal identitet og en god historie. Det kan være alt fra en utmerket ost, en smakfull skinke, et nydelig syltetøy, delikat klippfisk, en renskåret lakseloin, gode pølser, gårdspresset eple eller en velsmakende potet. MENY har funnet over 4500 produkter fra rundt 450 lokale produsenter som passer inn i Matskatt-kategorien.<br><br></div><div>MENY-Lauget, som består av erfarne fagpersoner fra ulike områder som kokker, slaktere, pølsemakere og fiskehandlere, er ansvarlig for å oppdage og promotere Matskattene. De følger med på produktutviklingen i sin region og jakter kontinuerlig på nye Matskatter. Du kan se etter Matskatt-merket i MENY-butikkene og nettbutikken for å finne disse spesielle produktene.<br><br></div><div>Matskattene er viktige for kundene til MENY, og det er en del av deres innsats for å ivareta norske mattradisjoner og støtte visjonære produsenter. MENY deler også ut Matskattstipendet årlig, som gir produsenter muligheten til å utforske nye produkter, øke produksjonen eller realisere innovasjonsprosjekter. Produsentene som bidrar til mangfoldet og skaper de uunnværlige smakene i norske Matskatter blir verdsatt og anerkjent.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Matskatt.svg",
+            "png": "https://kassal.app/labels/png/Matskatt.png"
+          }
+        }
+      ],
+      "created_at": "2024-02-23T07:01:58.000000Z",
+      "updated_at": "2026-06-07T01:27:54.000000Z"
+    },
+    {
+      "id": 213461,
+      "name": "Økologisk Rørossmør 2% havsalt Spann, 2 kg",
+      "brand": "Rørosmeieriet",
+      "vendor": "Rørosmeieriet AS",
+      "ean": null,
+      "url": "https://oda.com/no/products/66498-rorosmeieriet-okologisk-rorossmor-2-havsalt-spann/",
+      "image": "https://images.oda.com/local_products/ffc772f8-31a2-4b00-ae81-e6e72d1d79ef.jpg?fit=bounds&format=auto&optimize=medium&width=1000&s=0xab777588da398c6aee8adc5d52e1deb799a0a0e0",
+      "category": null,
+      "description": "",
+      "ingredients": "Lavpasteurisert ikke-homogenisert Røros Rømme (fløte og mjølkesyrekultur) og norsk uraffinert havsalt",
+      "current_price": 344.9,
+      "current_unit_price": 172.45,
+      "weight": 2,
+      "weight_unit": null,
+      "store": {
+        "name": "Oda",
+        "code": "ODA_NO",
+        "url": "https://oda.com/no/",
+        "logo": "https://kassal.app/logos/Oda.svg"
+      },
+      "price_history": [
+        {
+          "price": 344.9,
+          "date": "2025-10-02T07:11:03.000000Z"
+        },
+        {
+          "price": 340.3,
+          "date": "2025-07-16T07:10:59.000000Z"
+        },
+        {
+          "price": 340.3,
+          "date": "2025-07-11T07:10:40.000000Z"
+        },
+        {
+          "price": 340.3,
+          "date": "2025-07-10T07:10:08.000000Z"
+        },
+        {
+          "price": 340.3,
+          "date": "2025-07-04T07:11:07.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-06-21T07:10:51.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-06-19T07:10:38.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-06-17T07:10:48.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-06-16T07:10:26.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-06-02T07:10:33.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-05-29T07:10:41.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-05-27T07:10:36.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-05-22T07:10:46.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-05-18T07:10:41.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-05-13T07:10:29.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-05-12T07:10:51.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-05-10T07:10:33.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-04-29T05:10:40.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-04-28T05:10:20.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-04-16T05:10:42.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-04-14T05:10:17.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-04-13T05:10:47.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-04-04T05:10:42.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-04-03T05:10:37.000000Z"
+        },
+        {
+          "price": 329,
+          "date": "2025-03-22T07:10:45.000000Z"
+        }
+      ],
+      "allergens": [],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 773,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 3234,
+          "unit": "kj"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 85,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 56.6,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 2.3,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2025-03-03T07:10:07.000000Z",
+      "updated_at": "2026-06-07T01:29:08.000000Z"
+    }
+  ],
+  "links": {
+    "first": "https://kassal.app/api/v1/products?page=1",
+    "last": null,
+    "prev": null,
+    "next": "https://kassal.app/api/v1/products?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "path": "https://kassal.app/api/v1/products",
+    "per_page": 10,
+    "to": 10
+  }
+}

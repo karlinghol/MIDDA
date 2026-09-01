@@ -1,0 +1,2819 @@
+{
+  "data": [
+    {
+      "id": 47599,
+      "name": "Hvetemel Rinforzato 00 25kg",
+      "brand": "OLUF LORENTZEN",
+      "vendor": null,
+      "ean": "8014601250322",
+      "url": "https://engrosnett.no/bakeartikler/mel-og-melblandinger/hvetemel-rinforzato-00-25kg",
+      "image": "https://engrosnett.no/image/mel-og-melblandinger/4806261-4806261.png?lb=true&v=638181070498270000",
+      "category": null,
+      "description": "Caputo \"00\" rinforzato som betyr \"forsterket\" er ideell til pizza, focaccia, ciabatta, eller til annet bakverk som skal ha en luftig og lett konsistens. Melet er en egenutviklet blanding fra den beste hveten på verdensmarkedet. Det er malt spesielt for å ",
+      "ingredients": "Hvetemel",
+      "current_price": 1048,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 1048,
+          "date": "2023-11-17T07:16:27.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-16T07:12:13.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-15T07:15:07.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-14T07:17:04.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-13T07:10:50.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-12T07:14:56.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-11T07:10:40.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-10T07:12:38.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-09T07:11:09.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-08T07:14:51.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-07T07:14:01.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-06T07:14:42.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-05T07:16:12.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-04T07:10:55.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-03T07:10:54.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-02T07:18:37.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-11-01T07:16:17.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-10-31T07:15:19.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-10-30T07:14:38.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-10-29T07:10:32.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-10-28T05:13:08.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-10-27T05:14:54.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-10-26T05:11:39.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-10-25T05:16:33.000000Z"
+        },
+        {
+          "price": 1048,
+          "date": "2023-10-24T05:13:51.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "YES"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "CAN_CONTAIN_TRACES"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "CAN_CONTAIN_TRACES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "macadamianott",
+          "display_name": "Macademiannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-07-16T23:48:23.000000Z",
+      "updated_at": "2024-05-05T21:55:35.000000Z"
+    },
+    {
+      "id": 217040,
+      "name": "Hvetemel øk siktet sekk 25kg",
+      "brand": "NORGESMØLLENE",
+      "vendor": null,
+      "ean": "7020655009251",
+      "url": "https://engrosnett.no/dagligvarer/baking/mel-melblandinger/hvetemel-ok-siktet-sekk-25kg",
+      "image": "https://engrosnett.no/image/mel-melblandinger/2812071-2812071.jpg?lb=true&v=638847928551270000",
+      "category": null,
+      "description": null,
+      "ingredients": null,
+      "current_price": 504.85,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 504.85,
+          "date": "2026-07-03T07:15:03.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-07-02T07:13:55.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-07-01T07:15:00.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-30T07:12:03.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-29T07:11:57.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-28T07:12:52.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-27T07:11:37.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-26T07:11:54.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-25T07:11:51.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-24T07:12:02.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-23T07:12:20.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-22T07:11:29.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-21T07:12:14.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-20T07:11:44.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-19T07:13:19.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-18T07:10:53.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-17T07:13:38.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-16T07:13:01.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-15T07:14:41.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-14T07:13:14.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-13T07:10:50.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-12T07:14:25.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-11T07:13:16.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-10T07:15:11.000000Z"
+        },
+        {
+          "price": 504.85,
+          "date": "2026-06-09T07:13:43.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "macadamianott",
+          "display_name": "Macademiannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [],
+      "labels": [
+        {
+          "name": "debio",
+          "display_name": "Debio",
+          "description": "Debio-merket er det offisielle norske økologimerket og gir en garanti for at en vare er økologisk dyrket.",
+          "organization": null,
+          "alternative_names": null,
+          "type": null,
+          "year_established": null,
+          "about": "<div>Debio-merket er det offisielle norske merket for økologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med økologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio økologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som følges for å oppnå Debio-sertifisering.<br><br></div><div>For å bli merket som økologisk av Debio, må produkter gjennomgå inspeksjoner og oppfylle strenge krav hvert år. Debio samarbeider tett med Mattilsynet for å sikre at økologisk produksjon og merking følger forskriftene om økologisk produksjon og merking av økologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole på at Debio-merket indikerer ekte økologiske produkter.<br><br></div><div>Debio-merket er et pålitelig symbol for forbrukere som ønsker å velge økologiske alternativer og støtte en bærekraftig matproduksjon i Norge. Ved å se etter Debio-merket, kan forbrukere enkelt identifisere og kjøpe produkter som er i tråd med deres ønske om å spise økologisk.</div>",
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Debio.svg",
+            "png": "https://kassal.app/labels/png/Debio.png"
+          }
+        }
+      ],
+      "created_at": "2025-06-15T07:10:16.000000Z",
+      "updated_at": "2026-07-03T07:15:03.000000Z"
+    },
+    {
+      "id": 39573,
+      "name": "Hvetemel Stand. 25kg",
+      "brand": "LANTMANNEN",
+      "vendor": null,
+      "ean": "7044416003456",
+      "url": "https://engrosnett.no/bakeartikler/mel-og-melblandinger/hvetemel-stand-25kg",
+      "image": "https://engrosnett.no/image/mel-og-melblandinger/1740109-1740109.jpg?lb=true&v=637777464887770000",
+      "category": null,
+      "description": null,
+      "ingredients": "Hvete",
+      "current_price": 399,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 399,
+          "date": "2023-11-16T07:10:47.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-15T07:15:38.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-14T07:10:38.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-13T07:15:55.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-12T07:12:40.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-11T07:15:34.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-10T07:15:13.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-09T07:15:41.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-08T07:16:42.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-07T07:17:39.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-06T07:14:11.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-05T07:13:31.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-04T07:10:42.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-03T07:16:40.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-02T07:11:04.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-11-01T07:10:32.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-10-31T07:16:45.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-10-30T07:14:57.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-10-29T07:14:27.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-10-28T05:16:05.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-10-27T05:10:31.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-10-26T05:11:37.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-10-25T05:17:15.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-10-24T05:14:49.000000Z"
+        },
+        {
+          "price": 399,
+          "date": "2023-10-23T05:13:55.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-13T17:13:17.000000Z",
+      "updated_at": "2024-05-05T21:50:23.000000Z"
+    },
+    {
+      "id": 217207,
+      "name": "Hvetemel siktet sekk 25kg",
+      "brand": "NORGESMØLLENE",
+      "vendor": null,
+      "ean": "7020655001255",
+      "url": "https://engrosnett.no/dagligvarer/baking/mel-melblandinger/hvetemel-siktet-sekk-25kg",
+      "image": "https://engrosnett.no/image/mel-melblandinger/2812105-2812105.png?lb=true&v=638851438396730000",
+      "category": null,
+      "description": null,
+      "ingredients": null,
+      "current_price": 396.6,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 396.6,
+          "date": "2026-07-03T07:14:34.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-07-02T07:11:02.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-07-01T07:15:12.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-30T07:15:01.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-29T07:11:36.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-28T07:12:34.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-27T07:13:54.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-26T07:12:47.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-25T07:13:04.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-24T07:15:18.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-23T07:14:22.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-22T07:12:36.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-21T07:12:47.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-20T07:12:55.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-19T07:14:45.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-18T07:14:10.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-17T07:14:09.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-16T07:14:39.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-15T07:11:22.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-14T07:12:03.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-13T07:13:35.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-12T07:11:41.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-11T07:14:09.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-10T07:12:27.000000Z"
+        },
+        {
+          "price": 396.6,
+          "date": "2026-06-09T07:10:54.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [],
+      "labels": [],
+      "created_at": "2025-06-21T07:10:15.000000Z",
+      "updated_at": "2026-07-03T07:14:34.000000Z"
+    },
+    {
+      "id": 47596,
+      "name": "Hvetemel Industri 25kg",
+      "brand": "LANTMANNEN",
+      "vendor": null,
+      "ean": "7044416003432",
+      "url": "https://engrosnett.no/bakeartikler/mel-og-melblandinger/hvetemel-industri-25kg",
+      "image": "https://engrosnett.no/image/mel-og-melblandinger/2274272-2274272.jpg?lb=true&v=638180997448500000",
+      "category": null,
+      "description": null,
+      "ingredients": "Hvete",
+      "current_price": 394,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "Engrosnett",
+        "code": "ENGROSSNETT_NO",
+        "url": "https://engrosnett.no/",
+        "logo": "https://kassal.app/logos/Engrosnett.svg"
+      },
+      "price_history": [
+        {
+          "price": 394,
+          "date": "2023-11-16T07:16:50.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-15T07:15:36.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-14T07:17:00.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-13T07:16:27.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-12T07:14:54.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-11T07:15:28.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-10T07:11:39.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-09T07:15:14.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-08T07:10:37.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-07T07:17:04.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-06T07:15:40.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-05T07:15:42.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-04T07:16:23.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-03T07:14:58.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-02T07:12:38.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-11-01T07:14:52.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-10-31T07:10:39.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-10-30T07:14:40.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-10-29T07:14:11.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-10-28T05:11:10.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-10-27T05:10:31.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-10-26T05:13:29.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-10-25T05:15:24.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-10-24T05:16:00.000000Z"
+        },
+        {
+          "price": 394,
+          "date": "2023-10-23T05:16:12.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 0,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 0,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 0,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-07-16T23:48:20.000000Z",
+      "updated_at": "2024-05-05T21:55:35.000000Z"
+    },
+    {
+      "id": 213393,
+      "name": "Caputo hvetemel tipo-0 Nuvola Super 5 kg",
+      "brand": null,
+      "vendor": "Caputo",
+      "ean": "8014601053343",
+      "url": "https://slowly.no/products/caputo-hvetemel-tipo-0-nuvola-super-5-kg",
+      "image": "https://cdn.shopify.com/s/files/1/0557/7411/8083/files/caputo-hvetemel-tipo-0-nuvola-super-5-kg-caputo.png?v=1740427091",
+      "category": null,
+      "description": "Ekstra finmalt italiensk mel som gir luftige og flotte bakverk. Inneholder 13,5% protein. W:320-340. (mao. elastisk og godt til pizza etc!)",
+      "ingredients": null,
+      "current_price": 239,
+      "current_unit_price": 419.3,
+      "weight": 570,
+      "weight_unit": "g",
+      "store": {
+        "name": "Slowly.no",
+        "code": "SLOWLY",
+        "url": "https://slowly.no/",
+        "logo": "https://kassal.app/logos/Slowly.svg"
+      },
+      "price_history": [
+        {
+          "price": 239,
+          "date": "2025-03-24T07:11:39.000000Z"
+        },
+        {
+          "price": 239,
+          "date": "2025-03-23T07:12:22.000000Z"
+        },
+        {
+          "price": 239,
+          "date": "2025-03-20T07:11:38.000000Z"
+        },
+        {
+          "price": 239,
+          "date": "2025-03-16T07:11:59.000000Z"
+        },
+        {
+          "price": 239,
+          "date": "2025-03-14T07:11:51.000000Z"
+        },
+        {
+          "price": 239,
+          "date": "2025-03-11T07:11:30.000000Z"
+        },
+        {
+          "price": 239,
+          "date": "2025-03-09T07:11:59.000000Z"
+        },
+        {
+          "price": 239,
+          "date": "2025-03-08T07:11:30.000000Z"
+        },
+        {
+          "price": 239,
+          "date": "2025-03-01T07:12:25.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "YES"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "CAN_CONTAIN_TRACES"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "CAN_CONTAIN_TRACES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "macadamianott",
+          "display_name": "Macademiannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [],
+      "labels": [],
+      "created_at": "2025-03-01T07:12:24.000000Z",
+      "updated_at": "2026-06-07T01:21:38.000000Z"
+    },
+    {
+      "id": 41846,
+      "name": "Siktet Hvetemel 4x2kg",
+      "brand": null,
+      "vendor": "Lantmännen cerealia as",
+      "ean": "9449",
+      "url": "https://joker.no/nettbutikk/varer/kaker-bakevarer/mel-og-gryn/mel/siktet-hvetemel-9449",
+      "image": "https://bilder.ngdata.no/9449/kmh/large.jpg",
+      "category": [
+        {
+          "id": 72,
+          "depth": -2,
+          "name": "Bakevarer og kjeks"
+        },
+        {
+          "id": 122,
+          "depth": -1,
+          "name": "Mel og gryn"
+        },
+        {
+          "id": 123,
+          "depth": 0,
+          "name": "Mel"
+        }
+      ],
+      "description": null,
+      "ingredients": "<b>Hvetemel</b>, melbehandlingsmiddel (askorbinsyre). Inneholder 80% av kornets bestanddeler.",
+      "current_price": 143.6,
+      "current_unit_price": 0.02,
+      "weight": 8000,
+      "weight_unit": "piece",
+      "store": {
+        "name": "Joker",
+        "code": "JOKER_NO",
+        "url": "https://joker.no/nettbutikk/varer",
+        "logo": "https://kassal.app/logos/Joker.svg"
+      },
+      "price_history": [
+        {
+          "price": 143.6,
+          "date": "2026-07-03T07:00:53.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-07-02T07:01:01.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-07-01T07:00:54.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-30T07:00:54.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-29T07:01:00.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-28T07:00:52.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-27T07:00:55.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-26T07:00:53.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-25T07:00:56.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-24T07:00:53.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-23T07:00:50.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-22T07:00:54.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-21T07:00:54.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-20T07:00:53.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-19T07:00:54.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-18T07:00:57.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-17T07:00:58.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-16T07:00:50.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-15T07:00:48.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-14T07:00:52.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-13T07:00:51.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-12T07:00:50.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-11T07:00:55.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-10T07:00:52.000000Z"
+        },
+        {
+          "price": 143.6,
+          "date": "2026-06-09T07:00:52.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "UNKNOWN"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "UNKNOWN"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 350,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 1450,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 68,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0.3,
+          "unit": "g"
+        },
+        {
+          "code": "polyoler",
+          "display_name": "Sukkeralkoholer",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "stivelse",
+          "display_name": "Stivelse",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 1.7,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-02-17T16:59:42.000000Z",
+      "updated_at": "2026-07-03T07:00:53.000000Z"
+    },
+    {
+      "id": 38070,
+      "name": "Siktet Hvetemel 4x2kg",
+      "brand": null,
+      "vendor": "Norgesmøllene as",
+      "ean": "2000944900006",
+      "url": "https://spar.no/nettbutikk/varer/bakeartikler-og-kjeks/mel-og-gryn/mel/siktet-hvetemel-2000944900006",
+      "image": "https://bilder.ngdata.no/9449/kmh/large.jpg",
+      "category": [
+        {
+          "id": 72,
+          "depth": -2,
+          "name": "Bakevarer og kjeks"
+        },
+        {
+          "id": 122,
+          "depth": -1,
+          "name": "Mel og gryn"
+        },
+        {
+          "id": 123,
+          "depth": 0,
+          "name": "Mel"
+        }
+      ],
+      "description": null,
+      "ingredients": "<b>Hvetemel</b>, melbehandlingsmiddel (askorbinsyre). Inneholder 80% av kornets bestanddeler.",
+      "current_price": 135.6,
+      "current_unit_price": 0.02,
+      "weight": 8000,
+      "weight_unit": "piece",
+      "store": {
+        "name": "SPAR",
+        "code": "SPAR_NO",
+        "url": "https://spar.no/nettbutikk/varer",
+        "logo": "https://kassal.app/logos/Spar.svg"
+      },
+      "price_history": [
+        {
+          "price": 135.6,
+          "date": "2026-06-29T07:01:41.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-28T07:01:30.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-27T07:01:36.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-26T07:01:33.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-25T07:01:40.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-24T07:01:33.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-23T07:01:32.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-22T07:01:27.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-21T07:01:30.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-20T07:01:28.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-19T07:01:29.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-18T07:01:42.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-17T07:01:30.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-16T07:01:21.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-15T07:01:18.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-14T07:01:22.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-13T07:01:21.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-12T07:01:22.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-11T07:01:30.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-10T07:01:18.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-09T07:01:12.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-08T07:01:12.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-07T07:01:09.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-06-06T07:00:41.000000Z"
+        },
+        {
+          "price": 135.6,
+          "date": "2026-05-19T07:01:15.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 350,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 1450,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 68,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0.3,
+          "unit": "g"
+        },
+        {
+          "code": "polyoler",
+          "display_name": "Sukkeralkoholer",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "stivelse",
+          "display_name": "Stivelse",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 1.7,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2022-01-13T10:00:29.000000Z",
+      "updated_at": "2026-06-29T07:01:41.000000Z"
+    },
+    {
+      "id": 216889,
+      "name": "Siktet Hvetemel 4x2kg",
+      "brand": null,
+      "vendor": "Norgesmøllene as",
+      "ean": "2000944900006",
+      "url": "https://meny.no/Varer/bakevarer-og-kjeks/mel-og-gryn/mel/siktet-hvetemel-2000944900006",
+      "image": "https://bilder.ngdata.no/9449/meny/large.jpg",
+      "category": [
+        {
+          "id": 72,
+          "depth": -2,
+          "name": "Bakevarer og kjeks"
+        },
+        {
+          "id": 122,
+          "depth": -1,
+          "name": "Mel og gryn"
+        },
+        {
+          "id": 123,
+          "depth": 0,
+          "name": "Mel"
+        }
+      ],
+      "description": null,
+      "ingredients": "<b>Hvetemel</b>, melbehandlingsmiddel (askorbinsyre). Inneholder 80% av kornets bestanddeler.",
+      "current_price": 133,
+      "current_unit_price": 16.63,
+      "weight": 8000,
+      "weight_unit": null,
+      "store": {
+        "name": "Meny",
+        "code": "MENY_NO",
+        "url": "https://meny.no/Varer",
+        "logo": "https://kassal.app/logos/Meny.svg"
+      },
+      "price_history": [
+        {
+          "price": 133,
+          "date": "2026-06-28T07:01:02.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-27T07:02:37.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-27T07:01:11.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-26T07:01:11.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-25T07:02:45.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-25T07:01:17.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-24T07:01:14.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-23T07:01:05.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-22T07:01:04.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-21T07:01:06.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-20T07:01:10.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-19T07:01:08.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-18T07:02:59.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-18T07:01:19.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-17T07:01:15.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-16T07:01:07.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-15T07:01:11.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-14T07:01:10.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-13T07:01:14.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-12T07:01:13.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-11T07:02:44.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-11T07:01:21.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-10T07:01:07.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-09T07:01:10.000000Z"
+        },
+        {
+          "price": 133,
+          "date": "2026-06-08T07:01:11.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 350,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 1450,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 68,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0.3,
+          "unit": "g"
+        },
+        {
+          "code": "polyoler",
+          "display_name": "Sukkeralkoholer",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "stivelse",
+          "display_name": "Stivelse",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 1.7,
+          "unit": "g"
+        }
+      ],
+      "labels": [],
+      "created_at": "2025-06-08T07:01:53.000000Z",
+      "updated_at": "2026-06-28T07:01:02.000000Z"
+    },
+    {
+      "id": 34071,
+      "name": "Hvetemel Siktet Møllerens",
+      "brand": "Møllerens",
+      "vendor": "Norgesmøllene as",
+      "ean": "7020650110808",
+      "url": "https://spar.no/nettbutikk/varer/bakeartikler-og-kjeks/mel-og-gryn/mel/hvetemel-siktet-7020650110808",
+      "image": "https://bilder.ngdata.no/7020650110808/kmh/large.jpg",
+      "category": [
+        {
+          "id": 72,
+          "depth": -2,
+          "name": "Bakevarer og kjeks"
+        },
+        {
+          "id": 122,
+          "depth": -1,
+          "name": "Mel og gryn"
+        },
+        {
+          "id": 123,
+          "depth": 0,
+          "name": "Mel"
+        }
+      ],
+      "description": null,
+      "ingredients": "Siktet hvetemel, melbehandlingsmiddel (askorbinsyre)",
+      "current_price": 131.6,
+      "current_unit_price": null,
+      "weight": null,
+      "weight_unit": null,
+      "store": {
+        "name": "SPAR",
+        "code": "SPAR_NO",
+        "url": "https://spar.no/nettbutikk/varer",
+        "logo": "https://kassal.app/logos/Spar.svg"
+      },
+      "price_history": [
+        {
+          "price": 131.6,
+          "date": "2025-01-29T07:00:44.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2025-01-11T07:00:47.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2025-01-10T07:00:49.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2025-01-06T07:02:03.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2025-01-05T07:01:54.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-12-22T07:01:33.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-12-21T07:01:39.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-12-20T07:01:37.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-12-19T07:01:49.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-12-18T07:01:59.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-07-30T05:01:09.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-07-29T05:01:10.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-07-28T05:00:53.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-07-27T05:00:51.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-07-26T05:00:54.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-07-25T05:00:52.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-07-24T05:00:50.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-07-23T05:00:53.000000Z"
+        },
+        {
+          "price": 131.6,
+          "date": "2024-07-22T05:00:52.000000Z"
+        },
+        {
+          "price": 126,
+          "date": "2023-10-02T05:07:40.000000Z"
+        },
+        {
+          "price": 126,
+          "date": "2023-10-01T05:07:37.000000Z"
+        },
+        {
+          "price": 126,
+          "date": "2023-09-30T05:07:45.000000Z"
+        },
+        {
+          "price": 126,
+          "date": "2023-09-29T05:07:36.000000Z"
+        },
+        {
+          "price": 126,
+          "date": "2023-09-29T05:05:52.000000Z"
+        },
+        {
+          "price": 126,
+          "date": "2023-08-03T05:02:18.000000Z"
+        }
+      ],
+      "allergens": [
+        {
+          "code": "gluten",
+          "display_name": "Gluten",
+          "contains": "YES"
+        },
+        {
+          "code": "blotdyr",
+          "display_name": "Bløtdyr",
+          "contains": "NO"
+        },
+        {
+          "code": "egg",
+          "display_name": "Egg",
+          "contains": "NO"
+        },
+        {
+          "code": "fisk",
+          "display_name": "Fisk",
+          "contains": "NO"
+        },
+        {
+          "code": "lupiner",
+          "display_name": "Lupiner",
+          "contains": "NO"
+        },
+        {
+          "code": "melk",
+          "display_name": "Melk",
+          "contains": "NO"
+        },
+        {
+          "code": "notter",
+          "display_name": "Nøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "peanotter",
+          "display_name": "Peanøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "selleri",
+          "display_name": "Selleri",
+          "contains": "NO"
+        },
+        {
+          "code": "sennep",
+          "display_name": "Sennep",
+          "contains": "NO"
+        },
+        {
+          "code": "sesam",
+          "display_name": "Sesam",
+          "contains": "NO"
+        },
+        {
+          "code": "skalldyr",
+          "display_name": "Skalldyr",
+          "contains": "NO"
+        },
+        {
+          "code": "soya",
+          "display_name": "Soya",
+          "contains": "NO"
+        },
+        {
+          "code": "sulfitt",
+          "display_name": "Sulfitt",
+          "contains": "NO"
+        },
+        {
+          "code": "cashewnott",
+          "display_name": "Cashewnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "hasselnott",
+          "display_name": "Hasselnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "macadamianott",
+          "display_name": "Macademiannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "mandel",
+          "display_name": "Mandler",
+          "contains": "NO"
+        },
+        {
+          "code": "paranott",
+          "display_name": "Paranøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pekannott",
+          "display_name": "Pekannøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "pistasjnott",
+          "display_name": "Pistasjnøtter",
+          "contains": "NO"
+        },
+        {
+          "code": "valnott",
+          "display_name": "Valnøtter",
+          "contains": "NO"
+        }
+      ],
+      "nutrition": [
+        {
+          "code": "energi_kcal",
+          "display_name": "Kalorier",
+          "amount": 338,
+          "unit": "kcal"
+        },
+        {
+          "code": "energi_kj",
+          "display_name": "Energi",
+          "amount": 1433,
+          "unit": "kj"
+        },
+        {
+          "code": "enumettet_fett",
+          "display_name": "Enumettet fett",
+          "amount": 0.2,
+          "unit": "g"
+        },
+        {
+          "code": "fett_totalt",
+          "display_name": "Fett",
+          "amount": 1.6,
+          "unit": "g"
+        },
+        {
+          "code": "flerumettet_fett",
+          "display_name": "Flerumettet fett",
+          "amount": 0.2,
+          "unit": "g"
+        },
+        {
+          "code": "karbohydrater",
+          "display_name": "Karbohydrater",
+          "amount": 67.9,
+          "unit": "g"
+        },
+        {
+          "code": "kostfiber",
+          "display_name": "Kostfiber",
+          "amount": 3.6,
+          "unit": "g"
+        },
+        {
+          "code": "mettet_fett",
+          "display_name": "Mettet fett",
+          "amount": 0.4,
+          "unit": "g"
+        },
+        {
+          "code": "protein",
+          "display_name": "Protein",
+          "amount": 11.2,
+          "unit": "g"
+        },
+        {
+          "code": "salt",
+          "display_name": "Salt",
+          "amount": 0,
+          "unit": "g"
+        },
+        {
+          "code": "sukkerarter",
+          "display_name": "Sukkerarter",
+          "amount": 2.7,
+          "unit": "g"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Papir",
+          "display_name": "Papir",
+          "description": null,
+          "organization": "Grønt Punkt",
+          "alternative_names": null,
+          "type": "Emballasjemerking",
+          "year_established": null,
+          "about": null,
+          "note": null,
+          "icon": {
+            "svg": "https://kassal.app/labels/svg/Papir.svg",
+            "png": "https://kassal.app/labels/png/Papir.png"
+          }
+        }
+      ],
+      "created_at": "2022-01-10T16:29:07.000000Z",
+      "updated_at": "2025-01-29T07:00:44.000000Z"
+    }
+  ],
+  "links": {
+    "first": "https://kassal.app/api/v1/products?page=1",
+    "last": null,
+    "prev": null,
+    "next": "https://kassal.app/api/v1/products?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "path": "https://kassal.app/api/v1/products",
+    "per_page": 10,
+    "to": 10
+  }
+}
