@@ -1,0 +1,100 @@
+erDiagram
+  DISHES ||--o{ DISH_INGREDIENTS : "has"
+  INGREDIENTS ||--o{ DISH_INGREDIENTS : "used in"
+  INGREDIENTS ||--o{ INGREDIENT_PRODUCTS : "mapped to"
+  PRODUCTS ||--o{ INGREDIENT_PRODUCTS : "fulfills"
+  PRODUCTS ||--o{ PRODUCT_ALLERGENS : "declares"
+  ALLERGENS ||--o{ PRODUCT_ALLERGENS : "flagged in"
+  PRODUCTS ||--o{ PRODUCT_NUTRITION : "has"
+  NUTRIENTS ||--o{ PRODUCT_NUTRITION : "measured in"
+  DISHES ||--o{ DISH_TOOLS : "needs"
+  TOOLS ||--o{ DISH_TOOLS : "used in"
+  DISHES ||--o{ DISH_DIETS : "fits"
+  DIETS ||--o{ DISH_DIETS : "matches"
+  DISHES ||--o{ DISH_REGIONS : "from"
+  REGIONS ||--o{ DISH_REGIONS : "covers"
+
+  DISHES {
+    int id PK
+    string name
+    text description
+    string image_url
+    text instructions
+    int portions
+    int time_minutes
+    string difficulty
+    string spice_level
+    float kcal
+    float protein
+    float carbs
+    float fat
+    float fiber
+    float salt
+    float sugar
+  }
+  DISH_INGREDIENTS {
+    int dish_id FK
+    int ingredient_id FK
+    float qty
+    string unit
+  }
+  INGREDIENTS {
+    int id PK
+    string name
+    string measurement_type
+  }
+  INGREDIENT_PRODUCTS {
+    int ingredient_id FK
+    string product_ean FK
+  }
+  PRODUCTS {
+    string ean PK
+    string name
+    string brand
+    string image_url
+    timestamp last_synced_at
+  }
+  ALLERGENS {
+    string code PK
+    string display_name
+  }
+  PRODUCT_ALLERGENS {
+    string product_ean FK
+    string allergen_code FK
+    enum contains
+  }
+  NUTRIENTS {
+    string code PK
+    string display_name
+    string default_unit
+  }
+  PRODUCT_NUTRITION {
+    string product_ean FK
+    string nutrient_code FK
+    float amount
+    string unit
+  }
+  TOOLS {
+    int id PK
+    string name
+  }
+  DISH_TOOLS {
+    int dish_id FK
+    int tool_id FK
+  }
+  DIETS {
+    int id PK
+    string name
+  }
+  DISH_DIETS {
+    int dish_id FK
+    int diet_id FK
+  }
+  REGIONS {
+    int id PK
+    string name
+  }
+  DISH_REGIONS {
+    int dish_id FK
+    int region_id FK
+  }
