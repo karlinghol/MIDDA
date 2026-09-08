@@ -19,6 +19,10 @@ class Unit(enum.Enum):
     SS = "ss"
     STK = "stk"
     KLYPE = "klype"
+    FEDD = "fedd"
+    BOKS = "boks"
+    STILK = "stilk"
+    CM = "cm"
 
 class Dish(Base):
     __tablename__ = "dishes"
