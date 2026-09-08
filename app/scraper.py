@@ -22,6 +22,12 @@ UNIT_WORDS = {
     "spiseskjeer": Unit.SS,
     "stk": Unit.STK,
     "klype": Unit.KLYPE,
+    "fedd": Unit.FEDD,
+    "boks": Unit.BOKS,
+    "bokser": Unit.BOKS,
+    "stilk": Unit.STILK,
+    "stilker": Unit.STILK,
+    "cm": Unit.CM,
 }
 
 AMOUNT_RE = re.compile(r"^\s*(?P<amount>\d+(?:[.,]\d+)?(?:/\d+)?)\s+(?P<rest>.+)$")
@@ -44,8 +50,8 @@ def _parse_amount(raw: str) -> float:
 def parse_ingredient_line(line: str) -> tuple[float, Unit, str, str | None]:
     """'75 g pecorino' -> (75.0, Unit.G, 'pecorino', None)
     '1/2 ts natron'   -> (0.5, Unit.TS, 'natron', None)
-    '2 fedd hvitløk'  -> (2.0, Unit.STK, 'fedd hvitløk', '2 fedd hvitløk')  (ukjent måleord)
-    'olje til steking' -> (1.0, Unit.STK, 'olje til steking', 'olje til steking')  (ingen mengde)
+    '2 fedd hvitløk'  -> (2.0, Unit.FEDD, 'hvitløk', None)
+    'olje til steking' -> (1.0, Unit.STK, 'olje til steking', 'olje til steking')  (ingen mengde/ukjent måleord)
     """
     match = AMOUNT_RE.match(line)
     if not match:
@@ -59,10 +65,10 @@ def parse_ingredient_line(line: str) -> tuple[float, Unit, str, str | None]:
     if unit is not None and remainder:
         return amount, unit, remainder.strip(), None
 
-    # Måleordet er ikke i Unit-enumen (fedd, boks, stilker, cm, ...), eller det
-    # er ingen enhet i teksten i det hele tatt (f.eks. "4 sjampinjonger").
-    # Mengden beholdes, STK brukes som enhet, og original tekst legges i note
-    # så det er lett å finne igjen og evt. utvide Unit-enumen senere.
+    # Måleordet er ikke i Unit-enumen, eller det er ingen enhet i teksten i
+    # det hele tatt (f.eks. "4 sjampinjonger"). Mengden beholdes, STK brukes
+    # som enhet, og original tekst legges i note så det er lett å finne igjen
+    # og evt. utvide Unit-enumen senere.
     return amount, Unit.STK, rest, line.strip()
 
 
