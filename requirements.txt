@@ -2,3 +2,6 @@ requests
 python-dotenv
 sqlalchemy
 alembic
+fastapi
+uvicorn
+recipe_scrapers
