@@ -1,8 +1,8 @@
 from fastapi import FastAPI, HTTPException
 from sqlalchemy.exc import IntegrityError
 
-from app.schemas import DishOut, ImportRequest
-from app.scraper import ScrapeError, fetch_and_scrape
+from backend.app.schemas import DishOut, ImportRequest
+from backend.app.scraper import ScrapeError, fetch_and_scrape
 
 app = FastAPI(title="Midda")
 

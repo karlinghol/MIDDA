@@ -5,8 +5,8 @@ from sqlalchemy import pool
 
 from alembic import context
 
-from app.database import Base, DATABASE_URL
-from app import models  # viktig – ellers er tabellene ikke registrert
+from backend.app.database import Base, DATABASE_URL
+from backend.app import models  # viktig – ellers er tabellene ikke registrert
 
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.

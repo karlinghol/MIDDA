@@ -4,8 +4,8 @@ import requests
 from recipe_scrapers import scrape_html
 from recipe_scrapers._exceptions import NoSchemaFoundInWildMode, WebsiteNotImplementedError
 
-from app.database import SessionLocal
-from app.models import Dish, DishIngredient, Ingredient, Unit
+from backend.app.database import SessionLocal
+from backend.app.models import Dish, DishIngredient, Ingredient, Unit
 
 UNIT_WORDS = {
     "g": Unit.G,
