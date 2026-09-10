@@ -5,7 +5,7 @@ from typing import List
 from sqlalchemy import ForeignKey, String, UniqueConstraint, JSON
 from sqlalchemy.orm import Mapped, DeclarativeBase, mapped_column, relationship
 
-from app.database import Base
+from backend.app.database import Base
 
 
 class Unit(enum.Enum):

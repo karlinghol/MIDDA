@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from pydantic import BaseModel, HttpUrl
 
-from app.models import Dish, DishIngredient
+from backend.app.models import Dish, DishIngredient
 
 
 class ImportRequest(BaseModel):
